@@ -16,5 +16,8 @@
     "url": "https://github.com/m0ston/L8_NodeBase/issues"
   },
   "homepage": "https://github.com/m0ston/L8_NodeBase#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.4"
+  }
 }
